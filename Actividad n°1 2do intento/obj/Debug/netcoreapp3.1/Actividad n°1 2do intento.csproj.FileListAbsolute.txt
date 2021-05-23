@@ -1,0 +1,13 @@
+C:\Users\genesis chirino\source\repos\Actividad n°1 2do intento\bin\Debug\netcoreapp3.1\Actividad n°1 2do intento.exe
+C:\Users\genesis chirino\source\repos\Actividad n°1 2do intento\bin\Debug\netcoreapp3.1\Actividad n°1 2do intento.deps.json
+C:\Users\genesis chirino\source\repos\Actividad n°1 2do intento\bin\Debug\netcoreapp3.1\Actividad n°1 2do intento.runtimeconfig.json
+C:\Users\genesis chirino\source\repos\Actividad n°1 2do intento\bin\Debug\netcoreapp3.1\Actividad n°1 2do intento.runtimeconfig.dev.json
+C:\Users\genesis chirino\source\repos\Actividad n°1 2do intento\bin\Debug\netcoreapp3.1\Actividad n°1 2do intento.dll
+C:\Users\genesis chirino\source\repos\Actividad n°1 2do intento\bin\Debug\netcoreapp3.1\Actividad n°1 2do intento.pdb
+C:\Users\genesis chirino\source\repos\Actividad n°1 2do intento\obj\Debug\netcoreapp3.1\Actividad n°1 2do intento.csprojAssemblyReference.cache
+C:\Users\genesis chirino\source\repos\Actividad n°1 2do intento\obj\Debug\netcoreapp3.1\Actividad n°1 2do intento.AssemblyInfoInputs.cache
+C:\Users\genesis chirino\source\repos\Actividad n°1 2do intento\obj\Debug\netcoreapp3.1\Actividad n°1 2do intento.AssemblyInfo.cs
+C:\Users\genesis chirino\source\repos\Actividad n°1 2do intento\obj\Debug\netcoreapp3.1\Actividad n°1 2do intento.csproj.CoreCompileInputs.cache
+C:\Users\genesis chirino\source\repos\Actividad n°1 2do intento\obj\Debug\netcoreapp3.1\Actividad n°1 2do intento.dll
+C:\Users\genesis chirino\source\repos\Actividad n°1 2do intento\obj\Debug\netcoreapp3.1\Actividad n°1 2do intento.pdb
+C:\Users\genesis chirino\source\repos\Actividad n°1 2do intento\obj\Debug\netcoreapp3.1\Actividad n°1 2do intento.genruntimeconfig.cache

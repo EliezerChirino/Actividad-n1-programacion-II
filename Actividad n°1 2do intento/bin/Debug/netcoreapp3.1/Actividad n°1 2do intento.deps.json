@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Actividad n°1 2do intento/1.0.0": {
+        "runtime": {
+          "Actividad n°1 2do intento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Actividad n°1 2do intento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
